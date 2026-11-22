@@ -102,11 +102,12 @@ const Home: React.FC = () => {
       {/* Footer Section */}
       <footer className="flex flex-col md:flex-row justify-between items-center text-[10px] md:text-xs font-medium tracking-[0.25em] uppercase opacity-70 mt-auto pt-6">
         <div className="mb-6 md:mb-0">
-          ALCHEMISTS PVT LTD
+          ALCHEMISTS.AI PRIVATE LIMITED
         </div>
         <div className="flex space-x-10 md:space-x-16">
           <Link to="/values" className="hover:text-white transition-colors duration-300">COMPANY VALUES</Link>
-          <a href="mailto:hello@alchemists.studio" className="hover:text-white transition-colors duration-300">CONTACT</a>
+          <a href="mailto:hello@alchemists.ltd" className="hover:text-white transition-colors duration-300">CONTACT</a>
+          <a href="/privacy/" className="hover:text-white transition-colors duration-300">PRIVACY</a>
         </div>
       </footer>
 

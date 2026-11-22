@@ -130,7 +130,7 @@ const Product: React.FC = () => {
           <div className="max-w-4xl">
             <h2 className="text-4xl md:text-8xl font-serif mb-8 text-white tracking-tighter leading-none">Ready to build?</h2>
             <p className="text-white/50 text-xl mb-12 font-light max-w-2xl mx-auto">Whether it's a new venture or an enterprise modernization, we bring decades of engineering judgment to your product.</p>
-            <a href="mailto:hello@alchemists.studio" className="inline-block bg-white text-black font-bold text-xs uppercase tracking-[0.3em] px-16 py-8 rounded-none hover:bg-[#a3966a] hover:text-white transition-all shadow-[0_20px_60px_rgba(255,255,255,0.05)] active:scale-95">
+            <a href="mailto:hello@alchemists.ltd" className="inline-block bg-white text-black font-bold text-xs uppercase tracking-[0.3em] px-16 py-8 rounded-none hover:bg-[#a3966a] hover:text-white transition-all shadow-[0_20px_60px_rgba(255,255,255,0.05)] active:scale-95">
               Initiate Build
             </a>
           </div>
