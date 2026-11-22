@@ -28,6 +28,7 @@ const Footer: React.FC<{ heightClass?: string }> = ({ heightClass = "" }) => {
           <span className="text-[#a3966a] text-xs font-bold uppercase tracking-widest mb-4">Engagement</span>
           <a href="mailto:hello@alchemists.ltd" className="hover:text-white/60">Contact Us</a>
           <a href="/privacy/" className="hover:text-white/60">Privacy Policy</a>
+          <a href="/terms/" className="hover:text-white/60">Terms of Use</a>
           <p className="text-white/40 text-[10px] mt-4 uppercase tracking-widest">© {new Date().getFullYear()} Alchemists.AI Private Limited</p>
         </div>
       </div>
